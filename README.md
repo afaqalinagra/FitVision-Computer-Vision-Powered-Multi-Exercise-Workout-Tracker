@@ -1,0 +1,2 @@
+# FitVision-Computer-Vision-Powered-Multi-Exercise-Workout-Tracker
+FitVision is a real-time, workout tracking system that uses MediaPipe Pose, OpenCV, and Python to detect body movements, count repetitions, provide live feedback, and record workout sessions automatically.It supports multiple exercises with intelligent pose analysis, voice-based motivation, live performance graphs, and video recording
